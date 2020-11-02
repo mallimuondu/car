@@ -1,0 +1,14 @@
+body{
+background-color: blue;
+/*background-image :url(img/base%20(1).png);*/
+}
+p{
+    color: red;
+}
+
+.img-homepage-card {
+    height: 120px;
+    width: 100%;
+    padding: 0px;
+
+}
